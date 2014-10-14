@@ -1,0 +1,8 @@
+{
+  "globalstrict": true,
+  "jasmine": true,
+  "unused": true,
+  "globals": {
+    "Ember": false
+  }
+}
