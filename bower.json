@@ -1,0 +1,26 @@
+{
+  "name": "mutating-array",
+  "version": "1.0.0",
+  "authors": [
+    "Jonathan Clem <jonathan@jclem.net>"
+  ],
+  "description": "An Ember.Mixin for self-mutating arrays",
+  "main": "index.js",
+  "keywords": [
+    "ember",
+    "mixin",
+    "array"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jclem/mutating-array",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.7.0"
+  }
+}
