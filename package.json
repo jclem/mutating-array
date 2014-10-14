@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "karma start --single-run"
+  },
   "devDependencies": {
     "karma": "^0.12.24",
     "karma-jasmine": "^0.1.5",
