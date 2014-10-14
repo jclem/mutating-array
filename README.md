@@ -21,7 +21,6 @@ var arr = [
 // Turn it into a MutatingArray
 arr = Ember.MutatingArray.apply(arr);
 
-
 // Add some filters
 arr.get('filters').pushObject(function onlyJoneses(item) {
   return item.lastName === 'Jones';
