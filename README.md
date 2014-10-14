@@ -1,4 +1,4 @@
-# Ember.MutatingArray
+# Ember.MutatingArray [![Build Status](https://travis-ci.org/jclem/mutating-array.svg?branch=master)](https://travis-ci.org/jclem/mutating-array)
 
 `Ember.MutatingArray` is an array mixin for Ember apps. It overrides the
 [`replace`][replace] method of an [Ember.MutableArray][mutable-array] so that
